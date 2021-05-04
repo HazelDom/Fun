@@ -1,2 +1,2 @@
-_I love **Natures** Gifts_
-**I want to improve** _myself_
+_I'm **Learning** Code_
+**Improving** _myself_
